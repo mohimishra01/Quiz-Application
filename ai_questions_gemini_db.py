@@ -1,4 +1,4 @@
-# ai_questions_gemini_db.py
+# Roll No.-0157CS231116
 # Generate MCQs via Google Gemini (GenAI) and insert directly into SQLite app.db (questions table).
 # Requires: pip install google-genai
 # Set env var: GEMINI_API_KEY (your key from Google AI Studio)
@@ -306,3 +306,4 @@ if __name__ == "__main__":
     else:
         added = generate_questions_to_db(cat, n, preview=False)
         print(f"Inserted {added} questions.")
+
