@@ -1,0 +1,2 @@
+Milan shukla,Milan69,Milan123,LNCTS,0157CS231111,B.Tech,milan123@gmail.com,6575858595,11-11-2005,Male,,user
+Mohit Mishra,admin123,admin@123,LNCTS,0157CS231116,B.Tech,mohit@gmail.com,7879853590,1-02-2004,Male,,admin
