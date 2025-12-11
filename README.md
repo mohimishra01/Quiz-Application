@@ -5,22 +5,20 @@ The system supports user registration, login, quiz attempts, scoring, admin cont
 
 Features:-
 
-AI / LLM Features
-
+AI / LLM Features:-
 Uses Google Gemini (Generative AI) to generate MCQs.
 Automatically formats, validates, and normalizes questions.
 Prevents duplicates using fuzzy similarity detection.
 Stores generated MCQs in an SQLite SQL database (app.db).
 
-Student Features
-
+Student Features:-
 Register & login securely
 View & update profile
 Take quizzes
 Automatic scoring
 Score history stored in scores.txt
 
-Admin Features
+Admin Features:-
 View all students
 View all scores
 Generate AI-powered MCQs for DSA, DBMS, Python
